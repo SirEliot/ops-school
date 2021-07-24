@@ -1,2 +1,4 @@
 #!/bin/bash
-#add fix to exercise1 here
+# iproute to the wrong interface
+sudo ip route del 208.86.224.90
+
